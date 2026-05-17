@@ -1,0 +1,19 @@
+Position Overview:
+
+As a member of the Firmware Engineering team, the Embedded Software Engineer I is responsible for writing safe, reliable embedded software for integrating hardware and software for robotic products.
+
+Essential Job Functions:
+Write, bug-fix, and maintain embedded software in C/C++ and Python to support robotic systems.
+Collaborate with the hardware team to integrate software with MCUs and peripherals using CAN, I2C, and SPI.
+Use GitHub for source control and participate in code reviews.
+Contribute to build systems such as CMake/Make and support CI/CD pipelines.
+Maintain technical documentation for integrated systems and software features.
+
+Requirements:
+Bachelor’s degree in Computer Science, Electrical Engineering, or related field.
+0-2 years of professional experience in embedded software development.
+Strong C/C++ skills.
+Experience with ARM Cortex MCUs.
+Experience with embedded RTOS and multithreaded environments.
+Embedded skills including CAN, I2C, SPI, GPIO, interrupts, timers, and PWM.
+Familiarity with Linux, CMake, pytest, oscilloscopes, GitHub, and Agile development.
